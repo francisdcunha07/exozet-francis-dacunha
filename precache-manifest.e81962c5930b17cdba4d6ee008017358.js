@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3da84f3929f6c7826a436c6a32a08788",
+    "revision": "20b54712cd2a3f74a0b9c6142b6c0f70",
     "url": "/exozet-francis-dacunha/index.html"
   },
   {
-    "revision": "60e108dd5d4f691b1b56",
-    "url": "/exozet-francis-dacunha/static/css/main.703b074a.chunk.css"
+    "revision": "a7dc8218e004b40924d6",
+    "url": "/exozet-francis-dacunha/static/css/main.6cda8c8e.chunk.css"
   },
   {
     "revision": "9b631a2e815443461df4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exozet-francis-dacunha/static/js/2.8eaa9a24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60e108dd5d4f691b1b56",
+    "revision": "a7dc8218e004b40924d6",
     "url": "/exozet-francis-dacunha/static/js/main.879568ae.chunk.js"
   },
   {
