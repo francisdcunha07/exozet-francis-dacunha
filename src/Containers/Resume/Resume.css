@@ -1,0 +1,48 @@
+.mainConatiner{
+ width: 100%;
+}
+
+.resumeContainer{
+    padding: 30px 0 40px 0;
+    margin: 4% auto 4% auto;
+    width: 60%;
+    background: #fff;
+    box-shadow: 0 10px 6px -6px #777;
+    border-top: 3px solid rgba(109, 150, 233, 1);
+}
+
+.innerContainer{
+    margin-left:50px;
+    margin-right:50px;
+}
+h1{
+    margin: 5px 0px 5px 0;
+}
+h2{
+    color: rgb(169,169,169);
+    margin: 5px 0px 25px 0;
+}
+
+span{
+    color: rgb(220,20,60);
+}
+
+div{
+    color:#231e1e;
+}
+
+.marginBtm{
+    margin-bottom: 25px;
+}
+
+.lngOutCont{
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+.heading{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+
