@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/exozet-francis-dacunha/precache-manifest.15dd47824265190be9e9cd0c14d2b6ed.js"
+  "/exozet-francis-dacunha/precache-manifest.123153589f469557fc944587b48ffd0f.js"
 );
 
 self.addEventListener('message', (event) => {
