@@ -23,7 +23,7 @@ class Generate extends Component{
     inputChangeHandler = (event) => {
        const udpdateState = {...this.state};
     //  let name ='', 
-        if( event.target.value != '' && event.target.value.length > 1 ){
+        if( event.target.value != '' && event.target.value.length > 0 ){
            udpdateState["name"] = event.target.value;
            udpdateState["valid"] = true;
         }else{
