@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/exozet-francis-dacunha/static/css/main.703b074a.chunk.css",
+    "main.js": "/exozet-francis-dacunha/static/js/main.e65a76da.chunk.js",
+    "main.js.map": "/exozet-francis-dacunha/static/js/main.e65a76da.chunk.js.map",
+    "runtime-main.js": "/exozet-francis-dacunha/static/js/runtime-main.525d135e.js",
+    "runtime-main.js.map": "/exozet-francis-dacunha/static/js/runtime-main.525d135e.js.map",
+    "static/js/2.8eaa9a24.chunk.js": "/exozet-francis-dacunha/static/js/2.8eaa9a24.chunk.js",
+    "static/js/2.8eaa9a24.chunk.js.map": "/exozet-francis-dacunha/static/js/2.8eaa9a24.chunk.js.map",
+    "index.html": "/exozet-francis-dacunha/index.html",
+    "precache-manifest.f2ce950d2ec710e008825dde36a97d5d.js": "/exozet-francis-dacunha/precache-manifest.f2ce950d2ec710e008825dde36a97d5d.js",
+    "service-worker.js": "/exozet-francis-dacunha/service-worker.js",
+    "static/css/main.703b074a.chunk.css.map": "/exozet-francis-dacunha/static/css/main.703b074a.chunk.css.map",
+    "static/js/2.8eaa9a24.chunk.js.LICENSE.txt": "/exozet-francis-dacunha/static/js/2.8eaa9a24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.525d135e.js",
+    "static/js/2.8eaa9a24.chunk.js",
+    "static/css/main.703b074a.chunk.css",
+    "static/js/main.e65a76da.chunk.js"
+  ]
+}
